@@ -73,10 +73,13 @@ Output:
 Result:
 Thus, the program is verified successfully
  
-EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
+EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
 Aim:
+
 To write a C program to print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 3.
+
 Algorithm:
+
 1.	Start
 2.	Declare char array a[50] outer loop for each digit from 0 to 3
 3.	Initialize counter c to 0
@@ -114,13 +117,13 @@ Result:
 Thus, the program is verified successfully
 
 EXP NO:8 C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
+
 Aim:
 To write a C program to print all of its permutations in strict lexicographical order.
 
 Algorithm:
 1.	Start
 2.	Declare variables s (pointer to an array of strings) and n (number of strings)
-
 3.	Memory Allocation
 Dynamically allocate memory for s to store an array of strings
 4.	Input
@@ -131,7 +134,7 @@ Free the memory allocated for each string in s Free the memory allocated for s
 7.	End
  
 Program:
-```c
+```
 #include <stdio.h>
 #include <string.h>
 #include <stdbool.h>
@@ -208,8 +211,8 @@ Output:
 Result:
 Thus, the program is verified successfully
  
-EXP NO:9 C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS
-SHOWN BELOW.
+EXP NO:9 C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS SHOWN BELOW.
+
 Aim:
 To write a C program to print a pattern of numbers from 1 to n as shown below.
 Algorithm:
